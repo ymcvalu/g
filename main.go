@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/voidint/g/cli"
+	"github.com/voidint/gvm/cli"
 )
 
 func main() {
